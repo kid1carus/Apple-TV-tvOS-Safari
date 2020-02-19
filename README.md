@@ -4,8 +4,14 @@
 <img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/Icon.png" alt="Safari Icon">
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 This is an improvment/re-imagining of the tvOS Browser by jvanakker. https://github.com/jvanakker/tvOSBrowser
 
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h1>Changes include:</h1>
