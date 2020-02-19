@@ -49,5 +49,5 @@ This is an improvment/re-imagining of the tvOS Browser by jvanakker. https://git
 <p></p>
 
 
-<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/SafariLight.png" alt="Safari Light Mode">
-<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/SafariDark.png" alt="Safari Dark Mode">
+<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/Light.png" alt="Safari Light Mode">
+<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/Dark.png" alt="Safari Dark Mode">
