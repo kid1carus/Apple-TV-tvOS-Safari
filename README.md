@@ -1,7 +1,7 @@
 # Safari-tvOS
 <h1>Unofficial Safari for Apple TV</h1>
                                                                                          
-<img src="https://github.com/LisaGuide/Safari-tvOS/blob/master/Icon.png" alt="Safari Light Mode">
+<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/Icon.png" alt="Safari Icon">
 <p></p>
 <p></p>
 This is an improvment/re-imagining of the tvOS Browser by jvanakker. https://github.com/jvanakker/tvOSBrowser
@@ -43,5 +43,5 @@ This is an improvment/re-imagining of the tvOS Browser by jvanakker. https://git
 <p></p>
 
 
-<img src="https://github.com/LisaGuide/Safari-tvOS/blob/master/SafariLight.png" alt="Safari Light Mode">
-<img src="https://github.com/LisaGuide/Safari-tvOS/blob/master/SafariDark.png" alt="Safari Dark Mode">
+<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/SafariLight.png" alt="Safari Light Mode">
+<img src="https://github.com/LisaGuide/Apple-TV-tvOS-Safari/blob/master/SafariDark.png" alt="Safari Dark Mode">
